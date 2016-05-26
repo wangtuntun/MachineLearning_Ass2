@@ -1,0 +1,3 @@
+# MachineLearning_Ass2
+神经网络的实现，包括bp神经网络和rbf神经网络
+神经网络的实现，包括bp神经网络和rbf神经网络
